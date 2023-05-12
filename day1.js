@@ -7,3 +7,13 @@ console.log(num)
 
 let username = 'gayathri'
 console.log(username)
+
+let num = 4
+console.log(num)
+
+num = 9
+console.log(num)
+
+
+let username = "gayathri"
+console.log(username)
